@@ -19,3 +19,13 @@
     border-style: solid;
     border-color: white;
 }
+
+ul .col {
+    border: 0px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    padding: 5px;
+}
